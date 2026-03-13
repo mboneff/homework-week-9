@@ -6,7 +6,7 @@ Submission of novelty functions and tempograms.
 
 ### Novelty Functions
 
-![Novelty Function (original)](intolerance.png)
+![Novelty Function (original)](intolerance1.png)
 
 As you can see, this novelty function has a period of almost 30 seconds where no tempo is detected at all. Intolerance begins with a long period of near silence before picking up at around 21 seconds, which explains why the visualisation did not have any data to depict before that point.
 
